@@ -14,7 +14,5 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme:minima
 
----
 title: "FIRST POST"
 date: 2020-11-20
----
